@@ -1,3 +1,2 @@
- /toolkit/node_modules/* 
  *.lock
  *.back
